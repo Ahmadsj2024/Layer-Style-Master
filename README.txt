@@ -1,7 +1,7 @@
 Plugin Builder Results
 
-Your plugin layer_style_master was created in:
-    C:\Users\ahmad\AppData\Roaming\QGIS\QGIS3\profiles\default\python\plugins\layer_style_master
+Your plugin LayerStyleMaster was created in:
+    C:\Users\ahmad\AppData\Roaming\QGIS\QGIS3\profiles\default\python\plugins\layer style master
 
 Your QGIS plugin directory is located at:
     C:/Users/ahmad/AppData/Roaming/QGIS/QGIS3/profiles/default/python/plugins
@@ -15,7 +15,7 @@ What's Next:
 
   * Test the plugin by enabling it in the QGIS plugin manager
 
-  * Customize it by editing the implementation file: ``layer_style_master.py``
+  * Customize it by editing the implementation file: ``Layer Style Master.py``
 
   * You can use the Makefile to compile your Ui and resource files when
     you make changes. This requires GNU make (gmake)
