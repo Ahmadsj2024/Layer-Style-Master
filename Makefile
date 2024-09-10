@@ -1,12 +1,13 @@
 #/***************************************************************************
-# layer_style_master
+# LayerStyleMaster
 #
 # This QGIS plugin copies symbology, labels, and rendering settings from one layer to multiple other layers.
 
+
 #							 -------------------
-#		begin				: 2024-08-27
+#		begin				: 2024-09-10
 #		git sha				: $Format:%H$
-#		copyright			: (C) 2024 by Dr. Ahmad Sahraei Juybari
+#		copyright			: (C) 2024 by Dr.-Ing. Ahmad Sahraei Juybari
 #		email				: ahmad.sahraeijuybari@outlook.com
 # ***************************************************************************/
 #
@@ -39,13 +40,13 @@ LOCALES =
 # translation
 SOURCES = \
 	__init__.py \
-	layer_style_master.py 
+	Layer Style Master.py 
 
-PLUGINNAME = layer_style_master
+PLUGINNAME = Layer Style Master
 
 PY_FILES = \
 	__init__.py \
-	layer_style_master.py 
+	Layer Style Master.py 
 
 UI_FILES = 
 
